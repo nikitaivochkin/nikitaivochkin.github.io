@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-25T11:46:55+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nikita Ivochkin</title><subtitle>Blog about my learning programing and just about my life</subtitle><entry><title type="html">1. How did it all start?</title><link href="http://localhost:4000/about-me/" rel="alternate" type="text/html" title="1. How did it all start?" /><published>2019-01-25T12:30:00+03:00</published><updated>2019-01-25T12:30:00+03:00</updated><id>http://localhost:4000/about-me</id><content type="html" xml:base="http://localhost:4000/about-me/">&lt;p&gt;I’ve never had a blog. It may seems boring and some posts maybe short.&lt;/p&gt;
+
+&lt;p&gt;As I’ve already said (in ‘about me’) In 2016 I graduated Voronezh Institute of the Ministry of the Interior of Russia as an radiocommunications-engineer and came back to my native city Bryansk to work. I got a job in the communications department at the local police department. But in some time I disappointment in this job (it’s a different story) and understood that I degraded as a specialist My friend &lt;a href=&quot;https://vk.com/id4417964&quot;&gt;Alex Klimov&lt;/a&gt; (he works as a programmer) got me advice to try learning programming. In short, I decided to try.&lt;/p&gt;
+
+&lt;p&gt;By the way, a month before that I decided to learn English (I’m doing it now).&lt;/p&gt;
+
+&lt;p&gt;My friend Alex got me advise to try learn programming on Hexlet as a javascript frontend developer (by the way, in my institute I had programming-lessons and I hated it. We learned C++ and didn’t understand what was happening on computer;) ).&lt;/p&gt;
+
+&lt;p&gt;I’ll say about my math knowledge - it isn’t my strong side.&lt;/p&gt;
+
+&lt;p&gt;I started taking the first courses, and it was incredibly fascinating. I could to sit many hours without any break and solved tasks.&lt;/p&gt;
+
+&lt;p&gt;About other things I’ll try to talk in next blog.&lt;/p&gt;
+
+&lt;p&gt;Also I’ll say that I’ve already done first project (brain games) and I’m leaarning cource - JS-trees now.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><summary type="html">I’ve never had a blog. It may seems boring and some posts maybe short.</summary></entry></feed>
