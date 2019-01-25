@@ -14,6 +14,6 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/nikitaivochkin/project-lvl1-s280">Brain Games</a></li>
-	<li><a href="https://github.com/nikitaivochkin/portfolio">Web-site portfolio for my wife</a></li>
+	<li><a href="https://github.com/nikitaivochkin/project-lvl1-s280" target="_blank">Brain Games</a></li>
+	<li><a href="https://github.com/nikitaivochkin/portfolio" target="_blank">Web-site portfolio for my wife</a></li>
 </ul>
