@@ -2,7 +2,7 @@
 title: 2. What I've achieved.
 layout: post
 category: blog
-date: '2019-01-26 19:31:50'
+date: '2019-01-27 19:31:50'
 ---
 
 In a start of learning way my programmer-level was almost equal zero.
