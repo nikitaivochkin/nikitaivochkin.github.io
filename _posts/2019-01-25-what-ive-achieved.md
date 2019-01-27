@@ -48,7 +48,7 @@ But I know exactly - programing became more than just hobby for me.
 
 ### The nearest plans.
 
-This January I was in vacation and was learning quite intensively The day after tomorrow I come back to my job. During this time I met data directed programming and collections. The nearest aim is prototypes and reiteration last four themes.
+This January I was in vacation and was learning quite intensively The day after tomorrow I come back to my job. It means I won't have lots of time to learning but I'll try to find. During this time I met data directed programming and collections. The nearest aim is prototypes and reiteration last four themes.
 
 #### p.s. 
 Yesterday I was listening to Ivan Glushkov podcast where came Kirril Mokevnin. He told about history of Hexlet and some very interesting things. I advise you to listen to. Link to record is [here](https://devzen.ru/episode-0226/).
