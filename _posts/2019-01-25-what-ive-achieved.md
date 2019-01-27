@@ -41,6 +41,9 @@ I start reading one else book now - one of important book for a programmer - [SI
 ### About problems.
 As I've already said I'm learning seriously only on Hexlet now and I noticed one not very pleasant tendantion. I don't have all understanding after any course. I was solving quite complicated tasks (like [this one](https://ru.hexlet.io/challenges/js_sequences_queens) and [this one](https://ru.hexlet.io/challenges/js_sequences_hierarchy)) and I've never looked teacher's solution before I get my own solution. Maybe I need to try return to these thems later? I'll do so.
 
+### About English.
+In one article about learning English I found this [YouTube channel](https://www.youtube.com/channel/UC_J8gecUO4gsesLXbXfjnNg). With this channel's help I upped my English almost till Intermideate. Also last summer my wife and I during three mounth were visiting English classes. Last autumn I opened [Italki](https://www.italki.com) for me. There my teacher [Alex](https://beta.italki.com/teacher/4630981) (from Mexico) and I were spending great time. It was just conversational practice but so useful and fun. I recomend everyone to try lessons with Alex ;)
+
 ### About life.
 
 During this time I began to watch on things differently. Maybe I grew up and understood at last that I need. I don't know how can I explain it ;) 
