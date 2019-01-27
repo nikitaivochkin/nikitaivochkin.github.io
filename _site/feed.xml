@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-25T23:13:41+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nikita Ivochkin</title><subtitle>This is my blog about learning programing and just about my life</subtitle><entry><title type="html">2. What I’ve achieved</title><link href="http://localhost:4000/what-ive-achieved/" rel="alternate" type="text/html" title="2. What I've achieved" /><published>2019-01-26T19:31:50+03:00</published><updated>2019-01-26T19:31:50+03:00</updated><id>http://localhost:4000/what-ive-achieved</id><content type="html" xml:base="http://localhost:4000/what-ive-achieved/">&lt;p&gt;In a start of learning way my programmer-level was almost equal zero.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-27T17:18:37+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nikita Ivochkin</title><subtitle>This is my blog about learning programing and just about my life</subtitle><entry><title type="html">2. What I’ve achieved.</title><link href="http://localhost:4000/what-ive-achieved/" rel="alternate" type="text/html" title="2. What I've achieved." /><published>2019-01-26T19:31:50+03:00</published><updated>2019-01-26T19:31:50+03:00</updated><id>http://localhost:4000/what-ive-achieved</id><content type="html" xml:base="http://localhost:4000/what-ive-achieved/">&lt;p&gt;In a start of learning way my programmer-level was almost equal zero.&lt;/p&gt;
 
 &lt;p&gt;For the first time I started learning with UNIX OC because I knew that all development
 mainly happen on Linux and similar systems. In that moment I had only computer on windows. I setted Ubunta with VirtualBox’s help (last May I become happily owner of an old macbook. Thanks a lot &lt;a href=&quot;https://vk.com/id4417964&quot;&gt;Alex&lt;/a&gt;).&lt;/p&gt;
@@ -7,9 +7,10 @@ mainly happen on Linux and similar systems. In that moment I had only computer o
 
 &lt;p&gt;Oh! I forgot to tell you (reader) why it’s need. Since I start learning I definately decided to change my work and my life. My aim is become a programmer and find a job in this area. You may to ask me: Why? Because it’s really interesting for me. My dream is to go to job with pleasure!&lt;/p&gt;
 
-&lt;p&gt;So it’s shortly what I met in that time:&lt;/p&gt;
+&lt;p&gt;So it’s shortly what I met in that time (one year):&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;I met &lt;a href=&quot;https://ru.hexlet.io/courses/js-functions&quot;&gt;functions&lt;/a&gt;, &lt;a href=&quot;https://ru.hexlet.io/courses/compound_data&quot;&gt;compound data&lt;/a&gt;, &lt;a href=&quot;https://ru.hexlet.io/courses/sequences&quot;&gt;sequences&lt;/a&gt;, &lt;a href=&quot;https://ru.hexlet.io/courses/ddp&quot;&gt;data directed programming&lt;/a&gt;, &lt;a href=&quot;https://ru.hexlet.io/courses/js_collections&quot;&gt;collections&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;basic of programming&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ru.hexlet.io/courses/js-functions&quot;&gt;functions&lt;/a&gt;, &lt;a href=&quot;https://ru.hexlet.io/courses/compound_data&quot;&gt;compound data&lt;/a&gt;, &lt;a href=&quot;https://ru.hexlet.io/courses/sequences&quot;&gt;sequences&lt;/a&gt;, &lt;a href=&quot;https://ru.hexlet.io/courses/ddp&quot;&gt;data directed programming&lt;/a&gt;, &lt;a href=&quot;https://ru.hexlet.io/courses/js_collections&quot;&gt;collections&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://ru.wikipedia.org/wiki/Git&quot;&gt;git&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;environment setting (js)&lt;/li&gt;
   &lt;li&gt;tried a create a simple &lt;a href=&quot;http://irinaivochkina.info/&quot;&gt;web-site&lt;/a&gt; (html, css (sass), jquery), website creation by layout&lt;/li&gt;
@@ -28,16 +29,26 @@ As a result it was the most difficult challenge in my learning. I couldn’t to 
 
 &lt;p&gt;Hexlet recomends to read some &lt;a href=&quot;https://ru.hexlet.io/pages/recommended-books&quot;&gt;books&lt;/a&gt;. Sadly, but I’m not very friendly with books. In one year I read only two books:&lt;/p&gt;
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ozon.ru/context/detail/id/28347106/&quot;&gt;Цель&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ozon.ru/context/detail/id/125884/&quot;&gt;Код&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ozon.ru/context/detail/id/28347106/&quot;&gt;The Goal: A Process of Ongoing Improvement (Eliyahu M. Goldratt)&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ozon.ru/context/detail/id/125884/&quot;&gt;Code: The Hidden Language of Computer Hardware and Software (Charles Petzold)&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;I start reading one else book now - one of important book for a programmer - &lt;a href=&quot;https://www.ozon.ru/context/detail/id/5322055/&quot;&gt;SICP&lt;/a&gt;.&lt;/p&gt;
 
+&lt;h3 id=&quot;about-problems&quot;&gt;About problems.&lt;/h3&gt;
+&lt;p&gt;As I’ve already said I’m learning seriously only on Hexlet now and I noticed one not very pleasant tendantion. I don’t have all understanding after any course. I was solving quite complicated tasks (like &lt;a href=&quot;https://ru.hexlet.io/challenges/js_sequences_queens&quot;&gt;this one&lt;/a&gt; and &lt;a href=&quot;https://ru.hexlet.io/challenges/js_sequences_hierarchy&quot;&gt;this one&lt;/a&gt;) and I’ve never looked teacher’s solution before I get my own solution. Maybe I need to try return to these thems later? I’ll do so.&lt;/p&gt;
+
 &lt;h3 id=&quot;about-life&quot;&gt;About life.&lt;/h3&gt;
 
 &lt;p&gt;During this time I began to watch on things differently. Maybe I grew up and understood at last that I need. I don’t know how can I explain it ;) 
-But I know exactly - programing became more than just hobby for me.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><summary type="html">In a start of learning way my programmer-level was almost equal zero.</summary></entry><entry><title type="html">1. Start.</title><link href="http://localhost:4000/about-me/" rel="alternate" type="text/html" title="1. Start." /><published>2019-01-25T12:30:00+03:00</published><updated>2019-01-25T12:30:00+03:00</updated><id>http://localhost:4000/about-me</id><content type="html" xml:base="http://localhost:4000/about-me/">&lt;p&gt;I’ve never had a blog. It may seems boring and some posts maybe short.&lt;/p&gt;
+But I know exactly - programing became more than just hobby for me.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-nearest-plans&quot;&gt;The nearest plans.&lt;/h3&gt;
+
+&lt;p&gt;This January I was in vacation and was learning quite intensively The day after tomorrow I come back to my job. During this time I met data directed programming and collections. The nearest aim is prototypes and reiteration last four themes.&lt;/p&gt;
+
+&lt;h4 id=&quot;ps&quot;&gt;p.s.&lt;/h4&gt;
+&lt;p&gt;Yesterday I was listening to Ivan Glushkov podcast where came Kirril Mokevnin. He told about history of Hexlet and some very interesting things. I advise you to listen to. Link to record is &lt;a href=&quot;https://devzen.ru/episode-0226/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><summary type="html">In a start of learning way my programmer-level was almost equal zero.</summary></entry><entry><title type="html">1. Start.</title><link href="http://localhost:4000/about-me/" rel="alternate" type="text/html" title="1. Start." /><published>2019-01-25T12:30:00+03:00</published><updated>2019-01-25T12:30:00+03:00</updated><id>http://localhost:4000/about-me</id><content type="html" xml:base="http://localhost:4000/about-me/">&lt;p&gt;I’ve never had a blog. It may seems boring and some posts maybe short.&lt;/p&gt;
 
 &lt;p&gt;As I’ve already said (in ‘about me’) In 2016 I graduated Voronezh Institute of the Ministry of the Interior of Russia as an radiocommunications-engineer and came back to my native city Bryansk to work. I got a job in the communications department at the local police department. But in some time I disappointment in this job (it’s a different story) and understood that I degraded as a specialist My friend &lt;a href=&quot;https://vk.com/id4417964&quot;&gt;Alex Klimov&lt;/a&gt; (he works as a programmer) got me advice to try learning programming. In short, I decided to try.&lt;/p&gt;
 
