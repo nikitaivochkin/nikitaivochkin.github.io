@@ -4,8 +4,11 @@ external-image: false
 picture: assets/images/avatar.jpg
 resume: 'true'
 resume-external: true
-url: ''
+url: https://nikitaivochkin.github.io/
 permalink: '/:title/'
+disqus:
+  shortname: https-nikitaivochkin-github-io # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
 github: nikitaivochkin
 facebook: nikita.ivochkin.7
 vk: id195111736
